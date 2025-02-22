@@ -160,3 +160,18 @@ input[type=range]::-moz-range-thumb {
   background: #ffc600;
   cursor: pointer;
 }
+
+:fullscreen .player {
+  width: 100vw;
+  height: 100vh;
+}
+
+.player:-webkit-full-screen {
+  width: 100vw;
+  height: 100vh;
+}
+
+.player video {
+  width: 100%;
+  height: auto;
+}

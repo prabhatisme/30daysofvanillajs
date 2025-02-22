@@ -91,6 +91,8 @@
       const [aLast, aFirst] = lastOne.split(', ');
       const [bLast, bFirst] = nextOne.split(', ');
       return aLast > bLast ? 1 : -1;
+ 
+
     });
     console.log(alpha);
 
@@ -98,16 +100,58 @@
     // Sum up the instances of each of these
     const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck', 'pogostick'];
 
-    const transportation = data.reduce(function(obj, item) {
-      if (!obj[item]) {
-        obj[item] = 0;
-      }
-      obj[item]++;
+    const transportation = data.reduce((obj, item) => {
+
+  obj[item] = obj[item] ? obj[item] + 1 : 1;
+      // if (!obj[item]) {
+      //   obj[item] = 0;
+      // }
+      // obj[item]++;
       return obj;
     }, {});
 
     console.log(transportation);
 
+    //9. Array Cardio Day 2
+
+    const peoples = [
+      { name: 'Wes', year: 1988 },
+      { name: 'Kait', year: 1986 },
+      { name: 'Irv', year: 1970 },
+      { name: 'Lux', year: 2015 }
+    ];
+
+    const comments = [
+      { text: 'Love this!', id: 523423 },
+      { text: 'Super good', id: 823423 },
+      { text: 'You are the best', id: 2039842 },
+      { text: 'Ramen is my fav food ever', id: 123523 },
+      { text: 'Nice Nice Nice!', id: 542328 }
+    ];
+
+     // Some and Every Checks .some() checks for someone and .every checks for every item
+     const isAdult = peoples.some(person => ((new Date()).getFullYear()) - person.year >= 19);
+     console.log({isAdult});
+     const allAdult = peoples.every(person => ((new Date()).getFullYear()) - person.year >= 19);
+     console.log({allAdult});
+
+     // .find() and .findIndex()
+     const comment = comments.find(comment => comment.id === 823423);
+     console.log(comment);
+
+     const index = comments.findIndex(comment => comment.id === 823423);
+     console.log(index);
+
+    ;
+    // this will create a new array (recommended)
+    const newComments = [
+      ...comments.slice(0, index),
+      ...comments.slice(index + 1)
+    ];
+    console.log(newComments);
+    //this will change the array (not recommended)
+    comments.splice(index, 1);
+    console.log(comments);
   </script>
 </body>
 </html>

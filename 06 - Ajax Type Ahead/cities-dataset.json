@@ -1,0 +1,290 @@
+[
+    {
+        
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "Pincode": "122001",
+        "state": "Haryana",
+        "gst-state-code": "HR",
+        "population": 901968,
+        "latitude": 28.4594965,
+        "longitude": 77.0266383,
+        "altitude": 228.025177
+    },
+    {
+        "city": "Mumbai",
+        "population": "12442373",
+        "Pincode": "400001",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Delhi",
+        "population": "16787941",
+        "Pincode": "110001",
+        "state": "Delhi"
+    },
+    {
+        "city": "Bangalore",
+        "population": "8443675",
+        "Pincode": "560001",
+        "state": "Karnataka"
+    },
+    {
+        "city": "Hyderabad",
+        "population": "6809970",
+        "Pincode": "500001",
+        "state": "Telangana"
+    },
+    {
+        "city": "Ahmedabad",
+        "population": "5577940",
+        "Pincode": "380001",
+        "state": "Gujarat"
+    },
+    {
+        "city": "Chennai",
+        "population": "4646732",
+        "Pincode": "600001",
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Kolkata",
+        "population": "4486679",
+        "Pincode": "700001",
+        "state": "West Bengal"
+    },
+    {
+        "city": "Surat",
+        "population": "4467797",
+        "Pincode": "395003",
+        "state": "Gujarat"
+    },
+    {
+        "city": "Pune",
+        "population": "3124458",
+        "Pincode": "411001",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Jaipur",
+        "population": "3073350",
+        "Pincode": "302001",
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Lucknow",
+        "population": "2815601",
+        "Pincode": "226001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Kanpur",
+        "population": "2765348",
+        "Pincode": "208001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Nagpur",
+        "population": "2405665",
+        "Pincode": "440001",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Indore",
+        "population": "1964086",
+        "Pincode": "452001",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Thane",
+        "population": "1818872",
+        "Pincode": "400601",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Bhopal",
+        "population": "1798218",
+        "Pincode": "462001",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Visakhapatnam",
+        "population": "1730320",
+        "Pincode": "530001",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Pimpri-Chinchwad",
+        "population": "1727692",
+        "Pincode": "411017",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Patna",
+        "population": "1684222",
+        "Pincode": "800001",
+        "state": "Bihar"
+    },
+    {
+        "city": "Vadodara",
+        "population": "1670806",
+        "Pincode": "390001",
+        "state": "Gujarat"
+    },
+    {
+        "city": "Ghaziabad",
+        "population": "1648643",
+        "Pincode": "201001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Ludhiana",
+        "population": "1618879",
+        "Pincode": "141001",
+        "state": "Punjab"
+    },
+    {
+        "city": "Agra",
+        "population": "1585705",
+        "Pincode": "282001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Nashik",
+        "population": "1486053",
+        "Pincode": "422001",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Faridabad",
+        "population": "1394000",
+        "Pincode": "121001",
+        "state": "Haryana"
+    },
+    {
+        "city": "Meerut",
+        "population": "1305429",
+        "Pincode": "250001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Rajkot",
+        "population": "1286678",
+        "Pincode": "360001",
+        "state": "Gujarat"
+    },
+    {
+        "city": "Kalyan-Dombivli",
+        "population": "1247324",
+        "Pincode": "421301",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Vasai-Virar",
+        "population": "1222390",
+        "Pincode": "401201",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Varanasi",
+        "population": "1198491",
+        "Pincode": "221001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Srinagar",
+        "population": "1180570",
+        "Pincode": "190001",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "city": "Aurangabad",
+        "population": "1175116",
+        "Pincode": "431001",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Dhanbad",
+        "population": "1160015",
+        "Pincode": "826001",
+        "state": "Jharkhand"
+    },
+    {
+        "city": "Amritsar",
+        "population": "1132383",
+        "Pincode": "143001",
+        "state": "Punjab"
+    },
+    {
+        "city": "Navi Mumbai",
+        "population": "1119477",
+        "Pincode": "400705",
+        "state": "Maharashtra"
+    },
+    {
+        "city": "Allahabad",
+        "population": "1117094",
+        "Pincode": "211001",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "city": "Ranchi",
+        "population": "1073440",
+        "Pincode": "834001",
+        "state": "Jharkhand"
+    },
+    {
+        "city": "Howrah",
+        "population": "1077075",
+        "Pincode": "711101",
+        "state": "West Bengal"
+    },
+    {
+        "city": "Coimbatore",
+        "population": "1061447",
+        "Pincode": "641001",
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Jabalpur",
+        "population": "1055451",
+        "Pincode": "482001",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Gwalior",
+        "population": "1053505",
+        "Pincode": "474001",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "city": "Vijayawada",
+        "population": "1048240",
+        "Pincode": "520001",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "city": "Madurai",
+        "population": "1017865",
+        "Pincode": "625001",
+        "state": "Tamil Nadu"
+    },
+    {
+        "city": "Raipur",
+        "population": "1010087",
+        "Pincode": "492001",
+        "state": "Chhattisgarh"
+    },
+    {
+        "city": "Kota",
+        "population": "1001694",
+        "Pincode": "324001",
+        "state": "Rajasthan"
+    },
+    {
+        "city": "Guwahati",
+        "population": "963429",
+        "Pincode": "781001",
+        "state": "Assam"
+    }
+]
